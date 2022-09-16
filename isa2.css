@@ -1,0 +1,85 @@
+header {
+
+    width: 150px;
+    border-radius: 50%;
+    height: 150px;
+    border:solid #5a0166;
+    
+}
+
+
+.raquel {
+    
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+menu{margin: 5px;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+
+body {   
+    
+    background-image: url("https://a-static.mlcdn.com.br/1500x1500/papel-adesivo-contact-lilas-fosco-opaco-lavavel-45-cm-x-5-mts-plastcover/filipackembalagens/1255p/4e0071d8e1370dbfc02e68894fc112c3.jpg");
+    margin-top: 10px;
+    
+
+}
+
+
+
+
+
+h1 {
+    margin-top: 10px;
+    padding-top: 10px;
+    text-align: center;
+    background-color: #f1e9f3;
+    font-family: Arial, Helvetica, sans-serif
+}
+h3 {
+    margin-top: 10px;
+    padding-top: 10px;
+    text-align: center;
+    font-style: italic;
+    font-size: 16px;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    border:solid #4b0257;
+    
+}
+div{  font-size: 25px;
+
+
+}
+nav{ border-width: 2px;
+border-style: double;
+border-color: white;
+border top: width:5px ;
+font-size: 19px;
+}
+ul{
+display: flex;
+justify-content: space-between;
+list-style-type: none;
+align-items: center;
+padding: 16px;
+font-size: 18px;
+font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+
+
+img{
+
+    width: 150px;;
+    height: 150px;
+    border-radius: 50%;
+
+}
+footer{
+    background-color: rgb(236, 222, 235);
+}
